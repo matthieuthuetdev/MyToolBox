@@ -146,15 +146,8 @@
             </ul>
         </section>
 
-        <section id="options-supplementaires">
-            <h2>Options supplémentaires</h2>
-            <p>Si tu le souhaites, je peux produire :</p>
-            <ul>
-                <li>Une version PDF propre du cahier des charges.</li>
-                <li>Une version visuelle (maquette simple).</li>
-                <li>Un diagramme UML (cas d’usage, classes, séquence).</li>
-            </ul>
-        </section>
+        <h2> Diagramme de classe </h2>
+        <img src="./image.png" alt="">
     </main>
 
     <footer>
