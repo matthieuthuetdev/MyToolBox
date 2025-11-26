@@ -146,8 +146,6 @@
             </ul>
         </section>
 
-        <h2> Diagramme de classe </h2>
-        <img src="./image.png" alt="">
         <h2> Diagramme de cas d'utilisation pour les visiteurs non connecter du site </h2>
         <img src="./ucVisiteur.png" alt="">
         <h2> Diagramme de cas d'utilisation pour les utilisateur connecté </h2>
@@ -156,6 +154,8 @@
         <img src="./ucDev.png" alt="">
         <h2> Diagramme de cas d'tuilisation pour les administrateurs </h2>
         <img src="./ucAdmin.png" alt="">
+        <h2> Diagramme de classe </h2>
+        <img src="./classe.png" alt="">
 
 
     </main>
