@@ -1,0 +1,17 @@
+{
+    "name": "matthieuthuetdev/mytoolbox",
+    "description": "ce projet vise a créé une boite a outil numérique accesible a tousse",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Matthieuthuetdev\\Mytoolbox\\": "./app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "matthieuthuetdev",
+            "email": "mthuet.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
