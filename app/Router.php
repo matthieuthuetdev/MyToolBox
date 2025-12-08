@@ -8,7 +8,7 @@ class Router
 {
     private string $pageController;
     private string $action;
-    public function __construct($pageController = "", $action = "")
+    public function __construct($pageController, $action)
     {
         $this->pageController = $pageController;
         $this->action = $action;

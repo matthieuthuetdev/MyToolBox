@@ -7,7 +7,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 use Matthieuthuetdev\Mytoolbox\Router;
 
-$router = new Router($_GET["pagecontroller"], $_GET["action"]);
+$router = new Router(!empty($_GET["pagecontroller"]) ? $_GET["pagecontroller"] : "", !empty($_GET["action"]) ? $_GET["action"] : "");
 ?>
 <!DOCTYPE html>
 <html lang="fr">
